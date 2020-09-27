@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://github.com/extra2000/android-studio-formula/compare/v1.0.1...v1.0.2) (2020-09-27)
+
+
+### Continuous Integrations
+
+* **travis:** Add Slack notifications ([8a58f33](https://github.com/extra2000/android-studio-formula/commit/8a58f338119dcd415691600573f88d51581e8566))
+
 ### [1.0.1](https://github.com/extra2000/android-studio-formula/compare/v1.0.0...v1.0.1) (2020-09-27)
 
 
