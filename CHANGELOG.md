@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://github.com/extra2000/android-studio-formula/compare/v1.0.2...v1.0.3) (2020-09-27)
+
+
+### Documentations
+
+* **README:** Add badges ([26e0c78](https://github.com/extra2000/android-studio-formula/commit/26e0c78ce51377b6b6c92f49def15ed659bf9cde))
+
 ### [1.0.2](https://github.com/extra2000/android-studio-formula/compare/v1.0.1...v1.0.2) (2020-09-27)
 
 
