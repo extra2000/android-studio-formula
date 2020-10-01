@@ -1,5 +1,15 @@
 # Changelog
 
+### [1.0.4](https://github.com/extra2000/android-studio-formula/compare/v1.0.3...v1.0.4) (2020-10-01)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Add feat type ([effa621](https://github.com/extra2000/android-studio-formula/commit/effa6216afc802f5a0024d57799f6fd49e62bb64))
+* **semantic-release:** Add rc, beta, and alpha release channels ([b880548](https://github.com/extra2000/android-studio-formula/commit/b88054808708e5ea1102132228ca9e41463c7e28))
+* **semantic-release:** Remove invalid release branches ([465ce46](https://github.com/extra2000/android-studio-formula/commit/465ce4628f9b0925ab678759d43f951b244db5e6))
+* **semantic-release:** Remove README scope from docs ([673b8f3](https://github.com/extra2000/android-studio-formula/commit/673b8f3489b448f205368d20c726e65ed405aefb))
+
 ### [1.0.3](https://github.com/extra2000/android-studio-formula/compare/v1.0.2...v1.0.3) (2020-09-27)
 
 
