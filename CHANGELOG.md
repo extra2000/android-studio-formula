@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.5](https://github.com/extra2000/android-studio-formula/compare/v1.0.4...v1.0.5) (2020-10-02)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Add fix type ([e89d848](https://github.com/extra2000/android-studio-formula/commit/e89d848f8c12be0bc72845cb36c6be1d0e7fe71f))
+
 ### [1.0.4](https://github.com/extra2000/android-studio-formula/compare/v1.0.3...v1.0.4) (2020-10-01)
 
 
